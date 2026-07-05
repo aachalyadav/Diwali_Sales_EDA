@@ -35,10 +35,12 @@ This project performs **Exploratory Data Analysis (EDA)** on a Diwali sales data
 
 ```
 Diwali-Sales-Analysis/
-│-- notebook.ipynb
-|-- charts
-│-- Diwali Sales Data.csv
+|--python_eda
+  │-- notebook.ipynb
+  |-- charts
+  │-- Diwali Sales Data.csv
 |-- README.md
+|--business-questions
 
 ```
 
